@@ -1,0 +1,4 @@
+{
+ "db_url": "postgres://postgres:postgres@localhost:5432/gophergator?sslmode=disable",
+ "current_user_name": "zoe"
+}
